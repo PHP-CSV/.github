@@ -9,15 +9,21 @@ Welcome to **PHP-CSV**, an open-source initiative dedicated to making CSV handli
 ### 🔹 [CSVHelper](https://github.com/PHP-CSV/CSVHelper)
 
 A lightweight PHP library that makes working with CSV files easy and efficient. Supports:
+
 ✔ **Fluent API** for reading, writing, and transforming CSVs
+
 ✔ **Memory-efficient processing** with SplFileObject
+
 ✔ **Custom delimiters, enclosures, and escape characters**
 
 ### 🔹 CSV Extension (Coming Soon!)
 
 A **native PHP extension** that will take CSV handling to the next level:
+
 ✔ **Blazing-fast performance** (140%+ faster than SplFileObject)
+
 ✔ **Efficient chunking, filtering, and mapping**
+
 ✔ **Ideal for processing massive datasets**
 
 🎯 Our Mission
@@ -28,7 +34,15 @@ We want to create **easy-to-use, high-performance tools** that empower PHP devel
 🤝 Get Involved!
 ----------------
 
-We believe in open-source and **community-driven development**. If you have ideas, feedback, or feature requests:🔹 **Create an issue** in one of our repos🔹 **Contribute via pull requests**🔹 **Join the discussion** and help shape the future of CSV handling in PHP
+We believe in open-source and **community-driven development**. 
+
+If you have ideas, feedback, or feature requests:
+
+🔹 **Create an issue** in one of our repos
+
+🔹 **Contribute via pull requests**
+
+🔹 **Join the discussion** and help shape the future of CSV handling in PHP
 
 📢 Follow our progress and check out our repositories! 🚀
 
